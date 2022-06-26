@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a test file in branch1
 =======
 This is a test file created in branch2
 >>>>>>> branch2
+=======
+This is a test file in branch1 added
+>>>>>>> branch1
